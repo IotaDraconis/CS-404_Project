@@ -1,2 +1,1 @@
-Useful links: https://www.mathworks.com/hardware-support/lego-mindstorms-ev3-matlab.html
-              https://www.mathworks.com/hardware-support/lego-mindstorms-ev3-simulink.html
+How to simulate the turtlebot: http://emanual.robotis.com/docs/en/platform/turtlebot3/simulation/
